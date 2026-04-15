@@ -39,6 +39,7 @@ In this repository you can find firmware code that allows you to build your own 
 
 Join our **[Discord Channel](https://discord.gg/jhyPPM5UEH)** to get help
 
+
 # Quick Start
 
 ## Requirements
